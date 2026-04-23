@@ -1,0 +1,8 @@
+.env
+.claude/
+cookies.txt
+*.session
+yt_cache.json
+__pycache__/
+.venv/
+*.pyc

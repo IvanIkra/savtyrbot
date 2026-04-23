@@ -1,0 +1,5 @@
+aiogram==3.13.1
+yt-dlp>=2024.11.18
+python-dotenv>=1.0.0
+pyrogram==2.0.106
+TgCrypto
